@@ -1,0 +1,47 @@
+# clients dependencies
+clients/node_modules
+
+# dependencies
+clients/.pnp
+clients/.pnp.js
+
+# testing
+clients/coverage
+
+# production
+clients/build
+
+# misc
+clients/.DS_Store
+clients/.env.local
+clients/.env.development.local
+clients/.env.test.local
+clients/.env.production.local
+
+clients/npm-debug.log*
+clients/yarn-debug.log*
+clients/yarn-error.log*
+
+# server dependencies
+server/node_modules
+
+# dependencies
+server/.pnp
+server//.pnp.js
+
+# testing
+server/coverage
+
+# production
+server/build
+
+# misc
+server/.DS_Store
+server/.env.local
+server/.env.development.local
+server/.env.test.local
+server/.env.production.local
+
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
