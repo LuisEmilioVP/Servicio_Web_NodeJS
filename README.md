@@ -6,11 +6,11 @@
 
 Agenda multimedia desarrollado con nodejs y react, consumiendo una API para listar y guardar datos en la misma. Proyecto desarrollado para fines de estudios en la asignatura de Programación Web.
 
-![Imagen_01](./public/img-1.png)
-![Imagen_02](./public/img-2.png)
-![Imagen_03](./public/img-3.png)
-![Imagen_04](./public/img-4.png)
-![Imagen_05](./public/img-5.png)
+![Imagen_01](./clients/public/img-1.png)
+![Imagen_02](./clients/public/img-2.png)
+![Imagen_03](./clients/public/img-3.png)
+![Imagen_04](./clients/public/img-4.png)
+![Imagen_05](./clients/public/img-5.png)
 
 ## Tecnologías usadas
 
