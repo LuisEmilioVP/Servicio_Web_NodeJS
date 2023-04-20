@@ -1,0 +1,32 @@
+export const students = [
+	{
+		id: 1,
+		nombre: 'Luis Emilio',
+		apellido: 'Valenzuela',
+		edad: 21,
+		email: 'luisemiliovp@gmail.com',
+		telefono: '809 256-7955',
+		carrera: 'Desarrollo de Software',
+		enrol: true,
+	},
+	{
+		id: 2,
+		nombre: 'Isaac',
+		apellido: 'Fernando',
+		edad: 19,
+		email: 'isaaaaccc@gmail.com',
+		telefono: '809 951-7962',
+		carrera: 'Desarrollo de Software',
+		enrol: true,
+	},
+	{
+		id: 3,
+		nombre: 'Merelyn',
+		apellido: 'Perez',
+		edad: 20,
+		email: 'merelynperez@gmail.com',
+		telefono: '809 795-3595',
+		carrera: 'Seguridad',
+		enrol: true,
+	},
+];

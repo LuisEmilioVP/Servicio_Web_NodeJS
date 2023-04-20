@@ -1,0 +1,17 @@
+### Obtener estudiantes registradas
+GET http://localhost:5000/api/students
+### Obtener un estudiante en particular
+GET http://localhost:5000/api/students/4
+### Agendar un nuevo estudiante
+POST http://localhost:5000/api/students
+Content-Type: application/json
+
+{
+   "nombre": "Juan",
+   "apellido": "Perez",
+   "edad": "20",
+   "email": "jperez@gmail.com",
+   "telefono": "829 136-7531",
+   "carrera": "Desarrollo de Videojuegos",
+   "enrol": "true"
+}

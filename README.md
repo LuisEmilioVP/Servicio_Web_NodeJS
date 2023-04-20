@@ -4,16 +4,23 @@
 
 ## Descripción
 
-Agenda multimedia desarrollado con nodejs y react, consumiendo una API para listar y guardar datos en la misma. Proyecto desarrollado para fines de estudios en la asignatura de Programación Web.
+Agenda multimedia desarrollado con nodejs y express, consumiendo una API para listar y guardar datos en la misma. Proyecto desarrollado para fines de estudios en la asignatura de Programación Web.
 
-![Imagen_01](./clients/public/img-1.png)
-![Imagen_02](./clients/public/img-2.png)
-![Imagen_03](./clients/public/img-3.png)
-![Imagen_04](./clients/public/img-4.png)
-![Imagen_05](./clients/public/img-5.png)
+![Imagen_01](./img/img-01.png)
+
+#### Listar
+
+![Imagen_02](./img/img-02.png)
+
+#### Listar por id
+
+![Imagen_03](./img/img-03.png)
+
+#### Guardar
+
+![Imagen_04](./img/img-04.png)
 
 ## Tecnologías usadas
 
-![HTML](https://img.shields.io/static/v1?label=&message=html&color=E44D26&logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/static/v1?label=&message=css&color=42A5F5&logo=css3&logoColor=white&style=for-the-badge)
-![REACT](https://img.shields.io/static/v1?label=&message=React&color=42A5F5&logo=react&logoColor=white&style=for-the-badge)
+![NODEJS](https://img.shields.io/static/v1?label=&message=nodejs&color=2B2C2F&logo=nodejs&logoColor=white&style=for-the-badge)
+![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JavaScript&color=FFCA28&logo=javascript&logoColor=white&style=for-the-badge)
